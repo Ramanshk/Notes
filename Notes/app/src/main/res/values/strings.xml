@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="note_hint">Note</string>
+    <string name="title_hint">Title</string>
+    <string name="add_btn">Add</string>
+    <string name="all_notes">All Notes</string>
+    <string name="update_btn">Update</string>
+    <string name="delete_btn">Delete</string>
+</resources>
